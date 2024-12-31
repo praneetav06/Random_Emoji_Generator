@@ -8,4 +8,4 @@
 - **2. CSS:** Adds styling to make the application visually appealing.
 - **3. JavaScript:** Implements the logic for generating a random emoji from a predefined list.
 
--Enjoy generating emojis! 🎉
+## Enjoy generating emojis! 🎉
